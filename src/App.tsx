@@ -32,7 +32,7 @@ export function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#080808] text-neutral-100 flex flex-col font-sans selection:bg-[#C86D51] selection:text-white">
+    <div className="min-h-screen bg-[#080808] text-neutral-100 flex flex-col font-sans selection:bg-[#C86D51] selection:text-white overflow-x-hidden w-full relative">
       {/* 1. Header with Logo & Brand */}
       <Header onOpenBooking={handleOpenBooking} />
 
