@@ -1,0 +1,8 @@
+{
+  "name": "airon studio® - Site Profissional para Experts",
+  "description": "Landing page premium para contratação de site profissional responsivo para experts e profissionais que vendem conhecimento. O site é o mesmo. O momento da contratação é que muda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
